@@ -1,3 +1,4 @@
 newfunction(String g) {
-  return "update";
+  g = "__________";
+  return g;
 }
