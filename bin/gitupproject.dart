@@ -1,3 +1,3 @@
 newfunction(String g) {
-  return g;
+  return "update";
 }
